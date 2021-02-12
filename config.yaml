@@ -1,6 +1,6 @@
-baseURL: https://craig-shenton.github.io/govuk-hugo/
+baseURL: https://your.site/
 languageCode: en-gb
-title: YHSXN
+title: Your site
 theme: govukhugo
 publishDir: docs
 canonifyurls: true
